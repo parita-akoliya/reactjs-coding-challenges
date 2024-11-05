@@ -1,1 +1,1 @@
-# reactjs-coding-challenges
+# ReactJS Coding Challenges
